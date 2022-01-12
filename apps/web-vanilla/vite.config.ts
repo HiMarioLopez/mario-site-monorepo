@@ -4,7 +4,7 @@
  const config = {
     server: {
         open: '/index.html',
-        port: 3004
+        port: 3007
       }
   }
   
