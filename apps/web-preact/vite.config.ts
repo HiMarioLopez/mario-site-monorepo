@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [preact()],
   server: {
     open: '/index.html',
-    port: 3004
+    port: 3005
   }
 })

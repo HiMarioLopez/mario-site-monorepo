@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [svelte()],
   server: {
     open: '/index.html',
-    port: 3006
+    port: 3007
   }
 })

@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [vue()],
   server: {
     open: '/index.html',
-    port: 3008
+    port: 3009
   }
 })
